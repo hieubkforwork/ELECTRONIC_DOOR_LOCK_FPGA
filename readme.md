@@ -1,6 +1,6 @@
 # CO3091: Project of Logic Design 
 # Electronic Lock
-
+![Electronic lock](https://cdn.thewirecutter.com/wp-content/uploads/2020/07/electroniclocks-lowres-2x1-.jpg?width=2048&quality=75&crop=2:1&auto=webp)
 ## 5.1 Introduction
 Electronic locks are becoming increasingly popular in daily life. They are commonly used in offices and homes. This type of lock uses a password for access instead of a physical key. If an intruder enters the wrong password multiple times, the system will increase the waiting time for the next password attempt and send a notification to the homeowner's mobile device.
 
