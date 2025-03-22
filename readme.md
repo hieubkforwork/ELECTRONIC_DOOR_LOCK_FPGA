@@ -1,4 +1,4 @@
-# CO3091: Project of the subject Logic Design 
+# CO3091: Project of Logic Design 
 
 ## MEMBER
 
